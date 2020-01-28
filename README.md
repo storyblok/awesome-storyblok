@@ -53,7 +53,13 @@ The Only Headless CMS with a Visual Editor.
 
 ### Tools
 
+#### Official
+
 - [storyblok-nuxt](https://github.com/storyblok/storyblok-nuxt) - Multi-threaded generator command for Nuxt.js.
+
+#### Community
+
+- [sb-mig](https://github.com/marckraw/sb-mig) - CLI for the Management API of Storyblok
 
 ### Projects built with Storyblok
 
