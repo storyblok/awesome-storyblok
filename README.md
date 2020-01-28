@@ -27,16 +27,16 @@ The Only Headless CMS with a Visual Editor.
 - [Content Delivery API](https://www.storyblok.com/docs/api/content-delivery)
 - [Management API](https://www.storyblok.com/docs/api/management)
 - [Changelog](https://www.storyblok.com/changelog)
-- [Storyblok Status](https://status.storyblok.com/en/) - Status of the services provided by Storyblok
-- [Uptime](https://uptime.storyblok.com/) - Monitors the uptime of the APIs
+- [Storyblok Status](https://status.storyblok.com/en/) - Status of the services provided by Storyblok.
+- [Uptime](https://uptime.storyblok.com/) - Monitors the uptime of the APIs.
 
 ### Community
 
 - [Twitter](https://twitter.com/storyblok)
 - [Forum](https://forum.storyblok.com/)
 - [Youtube](https://www.youtube.com/channel/UCYzFscZdEZi8flo0tE2FtlQ)
-- [Twitter Changelog](https://twitter.com/storyblok) - Keep up to date with lates changes on Twitter. (Changelog)
-- [Chat](https://www.storyblok.com) - Ask anything in the chat on the storyblok website
+- [Twitter Changelog](https://twitter.com/storyblok) - Keep up to date with lates changes on Twitter. (Changelog).
+- [Chat](https://www.storyblok.com) - Ask anything in the chat on the storyblok website.
 
 ### Tutorials
 
@@ -59,12 +59,12 @@ The Only Headless CMS with a Visual Editor.
 
 #### Community
 
-- [sb-mig](https://github.com/marckraw/sb-mig) - CLI for the Management API of Storyblok
+- [sb-mig](https://github.com/marckraw/sb-mig) - CLI for the Management API of Storyblok.
 
 ### Projects built with Storyblok
 
-- [Storyblok](https://www.storyblok.com) - The awesome website of the Storyblok (of course)
-- [SZ Brandstudio](https://www.sz-brandstudio.de/de/) - Agency website of SZ Brandstudio
+- [Storyblok](https://www.storyblok.com) - The awesome website of the Storyblok (of course).
+- [SZ Brandstudio](https://www.sz-brandstudio.de/de/) - Agency website of SZ Brandstudio.
 
 ### Ambassadors
 
@@ -73,8 +73,8 @@ The Only Headless CMS with a Visual Editor.
 ### Follow the team on Twitter 
 - [Dominik Angerer](https://twitter.com/domangerer) - Co-founder of Storyblok
 - [Alex Feiglstorfer](https://twitter.com/feiglstorfer) - Co-founder of Storyblok
-- [Hannes Michaelis](https://twitter.com/HannesMichaelis) - An awesome head behind the support channels
-- [SamuelSnopko](https://twitter.com/SamuelSnopko) - 🥑of Storyblok
+- [Hannes Michaelis](https://twitter.com/HannesMichaelis) - Awesome head behind the support channels
+- [Samuel Snopko](https://twitter.com/SamuelSnopko) - 🥑of Storyblok
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
