@@ -35,8 +35,8 @@ The Only Headless CMS with a Visual Editor.
 - [Twitter](https://twitter.com/storyblok)
 - [Forum](https://forum.storyblok.com/)
 - [Youtube](https://www.youtube.com/channel/UCYzFscZdEZi8flo0tE2FtlQ)
-- [Twitter Changelog](https://twitter.com/storyblok) - Keep up to date with lates changes on Twitter. (Changelog).
-- [Chat](https://www.storyblok.com) - Ask anything in the chat on the storyblok website.
+- [Twitter Changelog](https://twitter.com/storyblok) - Keep up to date with latest changes on Twitter. (Changelog).
+- [Chat](https://www.storyblok.com) - Ask us anything in the chat on the storyblok website.
 
 ### Tutorials
 
@@ -49,7 +49,7 @@ The Only Headless CMS with a Visual Editor.
 
 ### Starter Template
 
-- Commin soon
+- Coming soon
 
 ### Tools
 
@@ -68,7 +68,7 @@ The Only Headless CMS with a Visual Editor.
 
 ### Ambassadors
 
-- Comming soon
+- Coming soon
 
 ### Follow the team on Twitter 
 - [Dominik Angerer](https://twitter.com/domangerer) - Co-founder of Storyblok
