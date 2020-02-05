@@ -61,6 +61,7 @@ The Only Headless CMS with a Visual Editor.
 
 - [vue-storyblok-rich-text-renderer](https://github.com/MarvinRudolph/vue-storyblok-rich-text-renderer) - Rich Text Renderer for VueJS/NuxtJS
 - [sb-mig](https://github.com/marckraw/sb-mig) - CLI for the Management API of Storyblok.
+- [storyblok-mp-SDK](https://github.com/mikepenz/storyblok-mp-SDK) - Kotlin Multiplatform SDK to access the Storyblock API
 
 ### Projects built with Storyblok
 
