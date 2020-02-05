@@ -71,12 +71,6 @@ The Only Headless CMS with a Visual Editor.
 
 - Coming soon
 
-### Follow the team on Twitter 
-- [Dominik Angerer](https://twitter.com/domangerer) - Co-founder of Storyblok
-- [Alex Feiglstorfer](https://twitter.com/feiglstorfer) - Co-founder of Storyblok
-- [Hannes Michaelis](https://twitter.com/HannesMichaelis) - Awesome head behind the support channels
-- [Samuel Snopko](https://twitter.com/SamuelSnopko) - 🥑of Storyblok
-
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
