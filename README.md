@@ -44,8 +44,11 @@ The Only Headless CMS with a Visual Editor.
 
 - [Add a headless CMS to VueJs in 5 minutes](https://www.storyblok.com/tp/add-a-headless-CMS-to-vuejs-in-5-minutes)
 
+#### NuxtJS
+- [The Complete Guide to Build a Full Blown Multilanguage Website with Nuxt.js](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
+
 #### NextJS
-- [The Complete Guide to Build a Full Blown Multilanguage Website with Next.js](https://www.storyblok.com/tp/next-js-react-guide#the-complete-guide-to-build-a-full-blown-multilanguage-website-w)
+- [The Complete Guide to Build a Full Blown Multilanguage Website with Next.js](https://www.storyblok.com/tp/next-js-react-guide)
 
 ### Starter Template
 
