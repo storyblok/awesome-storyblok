@@ -70,6 +70,11 @@ The Only Headless CMS with a Visual Editor.
 - [storyblok-java-sdk](https://github.com/geilix10/storyblok-java-sdk) - Richtextresolver for Java.
 - [vuestorefront-storyblok-sync](https://github.com/kodbruket/vsf-storyblok-sync) - Storyblok integration for Vue Storefront.
 
+##### Plugins
+
+- [component-fade-plugin](https://github.com/storyblok-extended/component-fade-plugin) - Plugin for easy 'fade' transition.
+- [component-fade-plugin-react-consumer](https://github.com/storyblok-extended/component-fade-plugin-react-consumer) - HOC React component which consumes `component-fade-plugin` returned data.
+
 ### Projects built with Storyblok
 
 - [Storyblok](https://www.storyblok.com) - The awesome website of the Storyblok (of course).
