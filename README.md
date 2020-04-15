@@ -62,13 +62,19 @@ The Only Headless CMS with a Visual Editor.
 
 #### Community
 
-
 - [storyblok-migrate](https://github.com/maoberlehner/storyblok-migrate) - Migration tool from Storyblok (Import/Export of schemas and content).
 - [storyblok-rich-text-renderer](https://github.com/MarvinRudolph/storyblok-rich-text-renderer) - Rich Text Renderer for VueJS/NuxtJS
 - [sb-mig](https://github.com/marckraw/sb-mig) - CLI for the Management API of Storyblok.
 - [storyblok-mp-SDK](https://github.com/mikepenz/storyblok-mp-SDK) - Kotlin Multiplatform SDK to access the Storyblok API
 - [storyblok-java-sdk](https://github.com/geilix10/storyblok-java-sdk) - Richtextresolver for Java.
 - [vuestorefront-storyblok-sync](https://github.com/kodbruket/vsf-storyblok-sync) - Storyblok integration for Vue Storefront.
+
+### Field Plugins
+
+#### Community
+
+- [component-fade-plugin](https://github.com/storyblok-extended/component-fade-plugin) - Plugin for easy 'fade' transition.
+- [component-fade-plugin-react-consumer](https://github.com/storyblok-extended/component-fade-plugin-react-consumer) - HOC React component which consumes `component-fade-plugin` returned data.
 
 ### Projects built with Storyblok
 
