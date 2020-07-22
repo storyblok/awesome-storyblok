@@ -68,7 +68,7 @@ The Only Headless CMS with a Visual Editor.
 - [storyblok-mp-SDK](https://github.com/mikepenz/storyblok-mp-SDK) - Kotlin Multiplatform SDK to access the Storyblok API
 - [storyblok-java-sdk](https://github.com/geilix10/storyblok-java-sdk) - Richtextresolver for Java.
 - [vuestorefront-storyblok-sync](https://github.com/kodbruket/vsf-storyblok-sync) - Storyblok integration for Vue Storefront.
-- [Storyblok typescript generator](https://gist.github.com/dohomi/cf5e3b783b695d91af6c8fb3ffcbcee0)
+- [Storyblok typescript generator](https://gist.github.com/dohomi/cf5e3b783b695d91af6c8fb3ffcbcee0) - Storyblok typescript generator based on components.*.json file.
 
 ### Field Plugins
 
