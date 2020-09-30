@@ -52,7 +52,7 @@ The Only Headless CMS with a Visual Editor.
 
 ### Starter Template
 
-- Coming soon
+- [11ty boilerplate](https://github.com/christianzoppi/storyblok-11ty) Storyblok 11ty boilerplate made by @christianzoppi.
 
 ### Tools
 
