@@ -56,6 +56,8 @@ The Only Headless CMS with a Visual Editor.
 
 ### Tools
 
+- [Storyblok Cleanup script](https://gist.github.com/onefriendaday/5397227c951538d90a993c6592f7fb1a) Storyblok Cleanup script for a specific field.
+
 #### Official
 
 - [storyblok-nuxt](https://github.com/storyblok/storyblok-nuxt) - Multi-threaded generator command for Nuxt.js.
