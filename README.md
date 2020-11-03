@@ -49,7 +49,7 @@ The Only Headless CMS with a Visual Editor.
 
 #### NextJS
 - [The Complete Guide to Build a Full Blown Multilanguage Website with Next.js](https://www.storyblok.com/tp/next-js-react-guide)
-- [https://github.com/vercel/next.js/tree/canary/examples/cms-storyblok](Next.Js Example Blog by Vercel)
+- [Next.Js Example Blog by Vercel](https://github.com/vercel/next.js/tree/canary/examples/cms-storyblok)
 
 ### Starter Template
 
