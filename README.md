@@ -57,7 +57,11 @@ The Only Headless CMS with a Visual Editor.
 
 ### Tools
 
-- [Storyblok Cleanup script](https://gist.github.com/onefriendaday/5397227c951538d90a993c6592f7fb1a) Storyblok Cleanup script for a specific field.
+- [Tool Examples](https://github.com/storyblok/tool-examples) Our community repository to collect different tools and scripts to enhance the Storyblok workflow
+
+### Field-Types
+
+- [Field-Types Examples](https://github.com/storyblok/field-type-examples) Our community repository to collect different field-types to expand the Storyblok App 
 
 #### Official
 
