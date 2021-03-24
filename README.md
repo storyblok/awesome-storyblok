@@ -80,6 +80,7 @@ The Only Headless CMS with a Visual Editor.
 - [Laravel Storyblok](https://github.com/RicLeP/laravel-storyblok) - Makes working with Storyblok feel natural in Laravel.
 - [nuxt-storyblok-queries](https://github.com/wearewondrous/nuxt-storyblok-queries) - Nuxt.js module to simplify queries to the Storyblok API.
 - [nuxt-storyblok-router](https://github.com/wearewondrous/nuxt-storyblok-router) - Nuxt.js module to use storyblok routes instead of pages/ directory.
+- [storyblok-toolkit](https://github.com/storyofams/storyblok-toolkit) - Batteries-included toolset for efficient development of React frontends with Storyblok.
 
 ### Field Plugins
 
