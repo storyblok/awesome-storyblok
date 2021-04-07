@@ -74,7 +74,7 @@ The Only Headless CMS with a Visual Editor.
 - [storyblok-rich-text-react-renderer](https://github.com/claus/storyblok-rich-text-react-renderer) - Rich Text Renderer for React
 - [sb-mig](https://github.com/marckraw/sb-mig) - CLI for the Management API of Storyblok.
 - [storyblok-mp-SDK](https://github.com/mikepenz/storyblok-mp-SDK) - Kotlin Multiplatform SDK to access the Storyblok API
-- [storyblok-java-sdk](https://github.com/geilix10/storyblok-java-sdk) - Richtextresolver for Java.
+- [storyblok-java-sdk](https://github.com/geilix10/storyblok-java-sdk) - Java SDK to access Storyblok API
 - [vuestorefront-storyblok-sync](https://github.com/kodbruket/vsf-storyblok-sync) - Storyblok integration for Vue Storefront.
 - [Storyblok typescript generator](https://gist.github.com/dohomi/cf5e3b783b695d91af6c8fb3ffcbcee0) - Storyblok typescript generator based on components.*.json file.
 - [Laravel Storyblok](https://github.com/RicLeP/laravel-storyblok) - Makes working with Storyblok feel natural in Laravel.
