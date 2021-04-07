@@ -81,6 +81,7 @@ The Only Headless CMS with a Visual Editor.
 - [nuxt-storyblok-queries](https://github.com/wearewondrous/nuxt-storyblok-queries) - Nuxt.js module to simplify queries to the Storyblok API.
 - [nuxt-storyblok-router](https://github.com/wearewondrous/nuxt-storyblok-router) - Nuxt.js module to use storyblok routes instead of pages/ directory.
 - [magento2-storyblok-integration](https://github.com/Media-Lounge/magento2-storyblok-integration/) - Magento 2 integration that allows you to create content-rich pages that are easily editable using the Storyblok interface.
+- [storyblok-toolkit](https://github.com/storyofams/storyblok-toolkit) - Batteries-included toolset for efficient development of React frontends with Storyblok.
 
 ### Field Plugins
 
@@ -93,6 +94,7 @@ The Only Headless CMS with a Visual Editor.
 
 - [Storyblok](https://www.storyblok.com) - The awesome website of the Storyblok (of course).
 - [SZ Brandstudio](https://www.sz-brandstudio.de/de/) - Agency website of SZ Brandstudio.
+- [Story of AMS](https://storyofams.com) - Agency website of Story of AMS.
 
 ### Ambassadors
 
