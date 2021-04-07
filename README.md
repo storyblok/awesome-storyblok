@@ -44,15 +44,24 @@ The Only Headless CMS with a Visual Editor.
 
 - [Add a headless CMS to VueJs in 5 minutes](https://www.storyblok.com/tp/add-a-headless-CMS-to-vuejs-in-5-minutes)
 
-#### NextJS
+#### NuxtJS
+- [The Complete Guide to Build a Full Blown Multilanguage Website with Nuxt.js](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
 
-- [The Complete Guide to Build a Full Blown Multilanguage Website with Next.js](https://www.storyblok.com/tp/next-js-react-guide#the-complete-guide-to-build-a-full-blown-multilanguage-website-w)
+#### NextJS
+- [The Complete Guide to Build a Full Blown Multilanguage Website with Next.js](https://www.storyblok.com/tp/next-js-react-guide)
+- [Next.Js Example Blog by Vercel](https://github.com/vercel/next.js/tree/canary/examples/cms-storyblok)
 
 ### Starter Template
 
-- Coming soon
+- [11ty boilerplate](https://github.com/christianzoppi/storyblok-11ty) Storyblok 11ty boilerplate made by @christianzoppi.
 
 ### Tools
+
+- [Tool Examples](https://github.com/storyblok/tool-examples) Our community repository to collect different tools and scripts to enhance the Storyblok workflow
+
+### Field-Types
+
+- [Field-Types Examples](https://github.com/storyblok/field-type-examples) Our community repository to collect different field-types to expand the Storyblok App 
 
 #### Official
 
@@ -60,15 +69,32 @@ The Only Headless CMS with a Visual Editor.
 
 #### Community
 
-- [vue-storyblok-rich-text-renderer](https://github.com/MarvinRudolph/vue-storyblok-rich-text-renderer) - Rich Text Renderer for VueJS/NuxtJS
+- [storyblok-migrate](https://github.com/maoberlehner/storyblok-migrate) - Migration tool from Storyblok (Import/Export of schemas and content).
+- [storyblok-rich-text-renderer](https://github.com/MarvinRudolph/storyblok-rich-text-renderer) - Rich Text Renderer for VueJS/NuxtJS
+- [storyblok-rich-text-react-renderer](https://github.com/claus/storyblok-rich-text-react-renderer) - Rich Text Renderer for React
 - [sb-mig](https://github.com/marckraw/sb-mig) - CLI for the Management API of Storyblok.
 - [storyblok-mp-SDK](https://github.com/mikepenz/storyblok-mp-SDK) - Kotlin Multiplatform SDK to access the Storyblok API
 - [storyblok-java-sdk](https://github.com/geilix10/storyblok-java-sdk) - Java SDK to access Storyblok API
+- [vuestorefront-storyblok-sync](https://github.com/kodbruket/vsf-storyblok-sync) - Storyblok integration for Vue Storefront.
+- [Storyblok typescript generator](https://gist.github.com/dohomi/cf5e3b783b695d91af6c8fb3ffcbcee0) - Storyblok typescript generator based on components.*.json file.
+- [Laravel Storyblok](https://github.com/RicLeP/laravel-storyblok) - Makes working with Storyblok feel natural in Laravel.
+- [nuxt-storyblok-queries](https://github.com/wearewondrous/nuxt-storyblok-queries) - Nuxt.js module to simplify queries to the Storyblok API.
+- [nuxt-storyblok-router](https://github.com/wearewondrous/nuxt-storyblok-router) - Nuxt.js module to use storyblok routes instead of pages/ directory.
+- [magento2-storyblok-integration](https://github.com/Media-Lounge/magento2-storyblok-integration/) - Magento 2 integration that allows you to create content-rich pages that are easily editable using the Storyblok interface.
+- [storyblok-toolkit](https://github.com/storyofams/storyblok-toolkit) - Batteries-included toolset for efficient development of React frontends with Storyblok.
+
+### Field Plugins
+
+#### Community
+
+- [component-fade-plugin](https://github.com/storyblok-extended/component-fade-plugin) - Plugin for easy 'fade' transition.
+- [component-fade-plugin-react-consumer](https://github.com/storyblok-extended/component-fade-plugin-react-consumer) - HOC React component which consumes `component-fade-plugin` returned data.
 
 ### Projects built with Storyblok
 
 - [Storyblok](https://www.storyblok.com) - The awesome website of the Storyblok (of course).
 - [SZ Brandstudio](https://www.sz-brandstudio.de/de/) - Agency website of SZ Brandstudio.
+- [Story of AMS](https://storyofams.com) - Agency website of Story of AMS.
 
 ### Ambassadors
 
