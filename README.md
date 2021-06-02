@@ -18,8 +18,8 @@ The Only Headless CMS with a Visual Editor.
 - [Tutorials](#tutorials)
 - [Starter Template](#starter-template)
 - [Tools](#tools)
-- [Ambassadors](#ambassadors)
 - [Projects built with Storyblok](#projects-built-with-storyblok)
+- [Ambassadors](#ambassadors)
 
 ### Official Resources
 
@@ -92,7 +92,7 @@ The Only Headless CMS with a Visual Editor.
 
 ### Projects built with Storyblok
 
-- [Storyblok](https://www.storyblok.com) - The awesome website of the Storyblok (of course).
+- [Storyblok](https://www.storyblok.com) - The awesome website of Storyblok (of course).
 - [SZ Brandstudio](https://www.sz-brandstudio.de/de/) - Agency website of SZ Brandstudio.
 - [Story of AMS](https://storyofams.com) - Agency website of Story of AMS.
 
