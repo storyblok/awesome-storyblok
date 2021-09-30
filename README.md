@@ -83,7 +83,7 @@ The Only Headless CMS with a Visual Editor.
 - [magento2-storyblok-integration](https://github.com/Media-Lounge/magento2-storyblok-integration/) - Magento 2 integration that allows you to create content-rich pages that are easily editable using the Storyblok interface.
 - [storyblok-toolkit](https://github.com/storyofams/storyblok-toolkit) - Batteries-included toolset for efficient development of React frontends with Storyblok.
 - [C# Storyblok](https://github.com/adliance/Storyblok) - C# SDK to access Storyblok API.
-- [gatsby-storyblok-image](https://github.com/bejamas/gatsby-storyblok-image) - Gatsby community plugin to enable gatsby-image with Storyblok in outside of GraphQL.
+- [gatsby-storyblok-image](https://github.com/bejamas/gatsby-storyblok-image) - Gatsby community plugin to enable gatsby-image with Storyblok.
 
 ### Field Plugins
 
