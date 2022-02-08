@@ -91,6 +91,7 @@ The Only Headless CMS with a Visual Editor.
 
 - [component-fade-plugin](https://github.com/storyblok-extended/component-fade-plugin) - Plugin for easy 'fade' transition.
 - [component-fade-plugin-react-consumer](https://github.com/storyblok-extended/component-fade-plugin-react-consumer) - HOC React component which consumes `component-fade-plugin` returned data.
+- [storyblok-fieldtype-keyvaluepairs](https://github.com/apstechlead/storyblok-fieldtype-keyvaluepairs) - Plugin for adding Key-Value Pairs of data to a component.
 
 ### Projects built with Storyblok
 
