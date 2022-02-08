@@ -84,6 +84,7 @@ The Only Headless CMS with a Visual Editor.
 - [storyblok-toolkit](https://github.com/storyofams/storyblok-toolkit) - Batteries-included toolset for efficient development of React frontends with Storyblok.
 - [C# Storyblok](https://github.com/adliance/Storyblok) - C# SDK to access Storyblok API.
 - [storyblok-api-go](https://github.com/teamexos/storyblok-api-go) - Golang SDK to access Storyblok API.
+- [gatsby-storyblok-image](https://github.com/bejamas/gatsby-storyblok-image) - Gatsby community plugin to enable gatsby-image with Storyblok.
 
 ### Field Plugins
 
