@@ -13,13 +13,24 @@ The Only Headless CMS with a Visual Editor.
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Tutorials](#tutorials)
-- [Starter Template](#starter-template)
-- [Tools](#tools)
-- [Projects built with Storyblok](#projects-built-with-storyblok)
-- [Ambassadors](#ambassadors)
+- [Awesome Storyblok ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-storyblok-)
+- [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
+    - [VueJS](#vuejs)
+    - [NuxtJS](#nuxtjs)
+    - [NextJS](#nextjs)
+  - [Starter Template](#starter-template)
+  - [Tools](#tools)
+  - [Field-Types](#field-types)
+    - [Official](#official)
+    - [Community](#community-1)
+  - [Field Plugins](#field-plugins)
+    - [Community](#community-2)
+  - [Projects built with Storyblok](#projects-built-with-storyblok)
+  - [Ambassadors](#ambassadors)
+- [License](#license)
 
 ### Official Resources
 
@@ -33,9 +44,8 @@ The Only Headless CMS with a Visual Editor.
 ### Community
 
 - [Twitter](https://twitter.com/storyblok)
-- [Forum](https://forum.storyblok.com/)
-- [Youtube](https://www.youtube.com/channel/UCYzFscZdEZi8flo0tE2FtlQ)
-- [Twitter Changelog](https://twitter.com/storyblok) - Keep up to date with latest changes on Twitter. (Changelog).
+- [Discord](https://discord.com/invite/WmMYYQp)
+- [Youtube](https://www.youtube.com/c/storyblok-com)
 - [Chat](https://www.storyblok.com) - Ask us anything in the chat on the storyblok website.
 
 ### Tutorials
