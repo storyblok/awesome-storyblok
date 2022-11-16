@@ -13,14 +13,17 @@ The Only Headless CMS with a Visual Editor.
 
 ## Contents
 
-- [Awesome Storyblok ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-storyblok-)
+- [Awesome Storyblok ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-storyblok-)
 - [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Community](#community)
   - [Tutorials](#tutorials)
     - [VueJS](#vuejs)
     - [NuxtJS](#nuxtjs)
+    - [ReactJS](#reactjs)
     - [NextJS](#nextjs)
+    - [GatsbyJS](#gatsbyjs)
+    - [RemixJS](#remixjs)
   - [Starter Template](#starter-template)
   - [Tools](#tools)
   - [Field-Types](#field-types)
@@ -91,7 +94,7 @@ The Only Headless CMS with a Visual Editor.
 - [Add a headless CMS to Remix in 5 minutes](https://www.storyblok.com/tp/headless-cms-remix)
 
 ### Starter Template
-- [GatsbyJS boilerplate](gatsby-storyblok-boilerplate)
+- [GatsbyJS boilerplate](https://github.com/storyblok/gatsby-storyblok-boilerplate)
 - [Nuxt boilerplate](https://github.com/storyblok/vue-nuxt-boilerplate)
 - [Rails boilerplate](https://github.com/storyblok/rails-boilerplate)
 - [SvelteJS boilerplate](https://github.com/storyblok/storyblok-svelte-boilerplate)
@@ -152,8 +155,7 @@ The Only Headless CMS with a Visual Editor.
 - [Story of AMS](https://storyofams.com) - Agency website of Story of AMS.
 
 ### Ambassadors
-
-- Coming soon
+[Storyblok Ambassador Program](https://www.storyblok.com/ambassadors)
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
