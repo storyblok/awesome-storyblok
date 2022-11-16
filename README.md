@@ -24,7 +24,7 @@ The Only Headless CMS with a Visual Editor.
     - [NextJS](#nextjs)
     - [GatsbyJS](#gatsbyjs)
     - [RemixJS](#remixjs)
-  - [Starter Template](#starter-template)
+  - [Starter Templates](#starter-templates)
   - [Tools](#tools)
   - [Field-Types](#field-types)
     - [Official](#official)
@@ -93,7 +93,7 @@ The Only Headless CMS with a Visual Editor.
 #### RemixJS
 - [Add a headless CMS to Remix in 5 minutes](https://www.storyblok.com/tp/headless-cms-remix)
 
-### Starter Template
+### Starter Templates
 - [GatsbyJS boilerplate](https://github.com/storyblok/gatsby-storyblok-boilerplate)
 - [Nuxt boilerplate](https://github.com/storyblok/vue-nuxt-boilerplate)
 - [Rails boilerplate](https://github.com/storyblok/rails-boilerplate)
