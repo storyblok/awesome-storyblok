@@ -139,13 +139,13 @@ The Only Headless CMS with a Visual Editor.
 - [C# Storyblok](https://github.com/adliance/Storyblok) - C# SDK to access Storyblok API.
 - [storyblok-api-go](https://github.com/teamexos/storyblok-api-go) - Golang SDK to access Storyblok API.
 - [gatsby-storyblok-image](https://github.com/bejamas/gatsby-storyblok-image) - Gatsby community plugin to enable gatsby-image with Storyblok.
+- [sb-management-api-helpers](https://github.com/Dawntraoz-Storyblok/sb-management-api-helpers) - Collection of helper functions build on top of Storyblok management API.
 
 ### Field Plugins
 
 #### Community
 
 - [component-fade-plugin](https://github.com/storyblok-extended/component-fade-plugin) - Plugin for easy 'fade' transition.
-- [sb-management-api-helpers](https://github.com/Dawntraoz-Storyblok/sb-management-api-helpers) - Collection of helper functions build on top of Storyblok management API.
 - [component-fade-plugin-react-consumer](https://github.com/storyblok-extended/component-fade-plugin-react-consumer) - HOC React component which consumes `component-fade-plugin` returned data.
 - [storyblok-fieldtype-keyvaluepairs](https://github.com/apstechlead/storyblok-fieldtype-keyvaluepairs) - Plugin for adding Key-Value Pairs of data to a component.
 
