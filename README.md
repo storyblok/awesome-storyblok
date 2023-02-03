@@ -59,10 +59,6 @@ The Only Headless CMS with a Visual Editor.
 
 - [Tool Examples](https://github.com/storyblok/tool-examples) Our community repository to collect different tools and scripts to enhance the Storyblok workflow
 
-### Field-Types
-
-- [Field-Types Examples](https://github.com/storyblok/field-type-examples) Our community repository to collect different field-types to expand the Storyblok App 
-
 #### Official
 
 - [storyblok-nuxt](https://github.com/storyblok/storyblok-nuxt) - Multi-threaded generator command for Nuxt.js.
@@ -90,6 +86,7 @@ The Only Headless CMS with a Visual Editor.
 
 #### Community
 
+- [Field Plugin Examples](https://github.com/storyblok/field-type-examples) Our community repository to collect different field-types to expand the Storyblok App
 - [component-fade-plugin](https://github.com/storyblok-extended/component-fade-plugin) - Plugin for easy 'fade' transition.
 - [component-fade-plugin-react-consumer](https://github.com/storyblok-extended/component-fade-plugin-react-consumer) - HOC React component which consumes `component-fade-plugin` returned data.
 - [storyblok-fieldtype-keyvaluepairs](https://github.com/apstechlead/storyblok-fieldtype-keyvaluepairs) - Plugin for adding Key-Value Pairs of data to a component.
