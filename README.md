@@ -33,7 +33,7 @@ The Only Headless CMS with a Visual Editor.
 ### Community
 
 - [Twitter](https://twitter.com/storyblok)
-- [Forum](https://forum.storyblok.com/)
+- [Discord](https://discord.gg/jKrbAMz)
 - [Youtube](https://www.youtube.com/channel/UCYzFscZdEZi8flo0tE2FtlQ)
 - [Twitter Changelog](https://twitter.com/storyblok) - Keep up to date with latest changes on Twitter. (Changelog).
 - [Chat](https://www.storyblok.com) - Ask us anything in the chat on the storyblok website.
