@@ -53,15 +53,15 @@ The Only Headless CMS with a Visual Editor.
 
 ### Starter Template
 
-- [11ty boilerplate](https://github.com/christianzoppi/storyblok-11ty) Storyblok 11ty boilerplate made by @christianzoppi.
+- [11ty boilerplate](https://github.com/christianzoppi/storyblok-11ty) - Storyblok 11ty boilerplate made by @christianzoppi.
 
 ### Tools
 
-- [Tool Examples](https://github.com/storyblok/tool-examples) Our community repository to collect different tools and scripts to enhance the Storyblok workflow
+- [Tool Examples](https://github.com/storyblok/tool-examples) - Our community repository to collect different tools and scripts to enhance the Storyblok workflow.
 
 ### Field-Types
 
-- [Field-Types Examples](https://github.com/storyblok/field-type-examples) Our community repository to collect different field-types to expand the Storyblok App 
+- [Field-Types Examples](https://github.com/storyblok/field-type-examples) - Our community repository to collect different field-types to expand the Storyblok app.
 
 #### Official
 
@@ -70,11 +70,12 @@ The Only Headless CMS with a Visual Editor.
 #### Community
 
 - [storyblok-migrate](https://github.com/maoberlehner/storyblok-migrate) - Migration tool from Storyblok (Import/Export of schemas and content).
-- [storyblok-rich-text-renderer](https://github.com/MarvinRudolph/storyblok-rich-text-renderer) - Rich Text Renderer for VueJS/NuxtJS
-- [storyblok-rich-text-react-renderer](https://github.com/claus/storyblok-rich-text-react-renderer) - Rich Text Renderer for React
+- [storyblok-rich-text-renderer](https://github.com/MarvinRudolph/storyblok-rich-text-renderer) - Rich Text Renderer for VueJS/NuxtJS.
+- [storyblok-rich-text-react-renderer](https://github.com/claus/storyblok-rich-text-react-renderer) - Rich Text Renderer for React.
+- [storyblok-rich-text-astro-renderer](https://github.com/NordSecurity/storyblok-rich-text-astro-renderer) - Rich Text Renderer for Astro.
 - [sb-mig](https://github.com/marckraw/sb-mig) - CLI for the Management API of Storyblok.
-- [storyblok-mp-SDK](https://github.com/mikepenz/storyblok-mp-SDK) - Kotlin Multiplatform SDK to access the Storyblok API
-- [storyblok-java-sdk](https://github.com/geilix10/storyblok-java-sdk) - Java SDK to access Storyblok API
+- [storyblok-mp-SDK](https://github.com/mikepenz/storyblok-mp-SDK) - Kotlin Multiplatform SDK to access the Storyblok API.
+- [storyblok-java-sdk](https://github.com/geilix10/storyblok-java-sdk) - Java SDK to access Storyblok API.
 - [vuestorefront-storyblok-sync](https://github.com/kodbruket/vsf-storyblok-sync) - Storyblok integration for Vue Storefront.
 - [Storyblok typescript generator](https://gist.github.com/dohomi/cf5e3b783b695d91af6c8fb3ffcbcee0) - Storyblok typescript generator based on components.*.json file.
 - [Laravel Storyblok](https://github.com/RicLeP/laravel-storyblok) - Makes working with Storyblok feel natural in Laravel.
