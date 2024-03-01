@@ -86,6 +86,8 @@ The Only Headless CMS with a Visual Editor.
 - [C# Storyblok](https://github.com/adliance/Storyblok) - C# SDK to access Storyblok API.
 - [storyblok-api-go](https://github.com/teamexos/storyblok-api-go) - Golang SDK to access Storyblok API.
 - [gatsby-storyblok-image](https://github.com/bejamas/gatsby-storyblok-image) - Gatsby community plugin to enable gatsby-image with Storyblok.
+- [storyblok-solr-indexer](https://github.com/dkd/storyblok-solr-indexer) - Indexer script to index Storyblok stories in Apache Solr.
+- [cloudflare-worker-storyblok-solr-indexer](https://github.com/dkd/cloudflare-worker-storyblok-solr-indexer) - Cloudflare worker script which runs the Storyblok Solr Indexer which can be triggert via Storyblok webhooks.
 
 ### Field Plugins
 
