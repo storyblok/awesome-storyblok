@@ -86,6 +86,7 @@ The Only Headless CMS with a Visual Editor.
 - [C# Storyblok](https://github.com/adliance/Storyblok) - C# SDK to access Storyblok API.
 - [storyblok-api-go](https://github.com/teamexos/storyblok-api-go) - Golang SDK to access Storyblok API.
 - [gatsby-storyblok-image](https://github.com/bejamas/gatsby-storyblok-image) - Gatsby community plugin to enable gatsby-image with Storyblok.
+- [Storyblok Raycast Extension](https://www.raycast.com/Rob/storyblok) - Manage your Storyblok spaces, their stories, assets, contributors, and activities, from your fingertips with Raycast. View and contribute [the sourcecode for this extension here](https://github.com/raycast/extensions/tree/main/extensions/storyblok).  
 
 ### Field Plugins
 
