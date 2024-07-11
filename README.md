@@ -52,8 +52,10 @@ The Only Headless CMS with a Visual Editor.
 - [Next.Js Example Blog by Vercel](https://github.com/vercel/next.js/tree/canary/examples/cms-storyblok)
 
 ### Starter Template
-
 - [11ty boilerplate](https://github.com/christianzoppi/storyblok-11ty) - Storyblok 11ty boilerplate made by @christianzoppi.
+
+### Templates
+- [Astrorante](https://github.com/unfolding-io/Astrorante) - Storyblok Restaurant Template, made with Astro + Tailwind + Vue.
 
 ### Tools
 
