@@ -69,6 +69,7 @@ The Only Headless CMS with a Visual Editor.
 
 #### Community
 
+- [storyblok-space-cloner](https://github.com/kworq/storyblok-space-cloner) - Cloning tool for Storyblok Spaces.
 - [storyblok-migrate](https://github.com/maoberlehner/storyblok-migrate) - Migration tool from Storyblok (Import/Export of schemas and content).
 - [storyblok-rich-text-renderer](https://github.com/MarvinRudolph/storyblok-rich-text-renderer) - Rich Text Renderer for VueJS/NuxtJS.
 - [storyblok-rich-text-react-renderer](https://github.com/claus/storyblok-rich-text-react-renderer) - Rich Text Renderer for React.
