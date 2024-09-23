@@ -89,7 +89,7 @@ The Only Headless CMS with a Visual Editor.
 - [storyblok-solr-indexer](https://github.com/dkd/storyblok-solr-indexer) - Indexer script to index Storyblok stories in Apache Solr.
 - [cloudflare-worker-storyblok-solr-indexer](https://github.com/dkd/cloudflare-worker-storyblok-solr-indexer) - Cloudflare worker script which runs the Storyblok Solr Indexer which can be triggert via Storyblok webhooks.
 - [Storyblok Raycast Extension](https://www.raycast.com/Rob/storyblok) - Manage your Storyblok spaces, their stories, assets, contributors, and activities, from your fingertips with Raycast. View and contribute [the sourcecode for this extension here](https://github.com/raycast/extensions/tree/main/extensions/storyblok).  
-
+- [Storyblok component generator](https://github.com/forge42dev/storyblok-generator) - Vite plugin to generate bundle-split, type-safe React components pulled straight from your Storyblok Space. (works with React and Remix.run)
 
 ### Field Plugins
 
