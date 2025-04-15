@@ -40,16 +40,15 @@ The Only Headless CMS with a Visual Editor.
 
 ### Tutorials
 
-#### VueJS
+#### Vue
 
 - [Add a headless CMS to VueJs in 5 minutes](https://www.storyblok.com/tp/add-a-headless-CMS-to-vuejs-in-5-minutes)
 
-#### NuxtJS
+#### Nuxt
 - [The Complete Guide to Build a Full Blown Multilanguage Website with Nuxt.js](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
 
-#### NextJS
+#### Next.js
 - [The Complete Guide to Build a Full Blown Multilanguage Website with Next.js](https://www.storyblok.com/tp/next-js-react-guide)
-- [Next.Js Example Blog by Vercel](https://github.com/vercel/next.js/tree/canary/examples/cms-storyblok)
 
 ### Starter Template
 
@@ -62,13 +61,6 @@ The Only Headless CMS with a Visual Editor.
 ### Field-Types
 
 - [Field-Types Examples](https://github.com/storyblok/field-type-examples) - Our community repository to collect different field-types to expand the Storyblok app.
-
-#### Official
-
-- [storyblok-nuxt](https://github.com/storyblok/storyblok-nuxt) - Multi-threaded generator command for Nuxt.js.
-
-#### Community
-
 - [storyblok-migrate](https://github.com/maoberlehner/storyblok-migrate) - Migration tool from Storyblok (Import/Export of schemas and content).
 - [storyblok-rich-text-renderer](https://github.com/MarvinRudolph/storyblok-rich-text-renderer) - Rich Text Renderer for VueJS/NuxtJS.
 - [storyblok-rich-text-react-renderer](https://github.com/claus/storyblok-rich-text-react-renderer) - Rich Text Renderer for React.
@@ -88,26 +80,10 @@ The Only Headless CMS with a Visual Editor.
 - [gatsby-storyblok-image](https://github.com/bejamas/gatsby-storyblok-image) - Gatsby community plugin to enable gatsby-image with Storyblok.
 - [storyblok-solr-indexer](https://github.com/dkd/storyblok-solr-indexer) - Indexer script to index Storyblok stories in Apache Solr.
 - [cloudflare-worker-storyblok-solr-indexer](https://github.com/dkd/cloudflare-worker-storyblok-solr-indexer) - Cloudflare worker script which runs the Storyblok Solr Indexer which can be triggert via Storyblok webhooks.
-- [Storyblok Raycast Extension](https://www.raycast.com/Rob/storyblok) - Manage your Storyblok spaces, their stories, assets, contributors, and activities, from your fingertips with Raycast. View and contribute [the sourcecode for this extension here](https://github.com/raycast/extensions/tree/main/extensions/storyblok).  
-
-
-### Field Plugins
-
-#### Community
-
+- [Storyblok Raycast Extension](https://www.raycast.com/Rob/storyblok) - Manage your Storyblok spaces, their stories, assets, contributors, and activities, from your fingertips with Raycast. View and contribute [the sourcecode for this extension here](https://github.com/raycast/extensions/tree/main/extensions/storyblok).
 - [component-fade-plugin](https://github.com/storyblok-extended/component-fade-plugin) - Plugin for easy 'fade' transition.
 - [component-fade-plugin-react-consumer](https://github.com/storyblok-extended/component-fade-plugin-react-consumer) - HOC React component which consumes `component-fade-plugin` returned data.
 - [storyblok-fieldtype-keyvaluepairs](https://github.com/apstechlead/storyblok-fieldtype-keyvaluepairs) - Plugin for adding Key-Value Pairs of data to a component.
-
-### Projects built with Storyblok
-
-- [Storyblok](https://www.storyblok.com) - The awesome website of Storyblok (of course).
-- [SZ Brandstudio](https://www.sz-brandstudio.de/de/) - Agency website of SZ Brandstudio.
-- [Story of AMS](https://storyofams.com) - Agency website of Story of AMS.
-
-### Ambassadors
-
-- Coming soon
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
