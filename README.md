@@ -51,8 +51,10 @@ The Only Headless CMS with a Visual Editor.
 - [The Complete Guide to Build a Full Blown Multilanguage Website with Next.js](https://www.storyblok.com/tp/next-js-react-guide)
 
 ### Starter Template
-
 - [11ty boilerplate](https://github.com/christianzoppi/storyblok-11ty) - Storyblok 11ty boilerplate made by @christianzoppi.
+
+### Templates
+- [Astrorante](https://github.com/unfolding-io/Astrorante) - Storyblok Restaurant Template, made with Astro + Tailwind + Vue.
 
 ### Tools
 
